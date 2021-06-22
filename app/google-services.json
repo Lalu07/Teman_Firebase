@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827124517261",
+    "project_id": "teman-firebase",
+    "storage_bucket": "teman-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827124517261:android:e230723b2cacca408ad5c4",
+        "android_client_info": {
+          "package_name": "firdaus.rizkika.teman_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827124517261-makm6dgclri2sco5e3dk8kukok69913g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHccYYyg-W8VcamKCu27fxmumet-iUZug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827124517261-makm6dgclri2sco5e3dk8kukok69913g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
