@@ -43,7 +43,7 @@ public class AdapterLihatTeman extends RecyclerView.Adapter<AdapterLihatTeman.Vi
         ViewHolder vh = new ViewHolder(v);
         return vh;
     }
-
+//push project
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         String kode, nama, telpon;
